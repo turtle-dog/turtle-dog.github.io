@@ -4,7 +4,7 @@ title: Kapp'n's songs
 permalink: /kappnsongs/
 ---
 
-<img align="right" src="https://turtle-dog.github.io/images/kappnlyric.jpg" style="padding-left:.5em">
+<img align="right" src="https://turtle-dog.github.io/images/kappnlyric.jpg">
 
 One of my favorite parts of New Leaf is Kapp'n's songs. They're so cute and I love the ukulele! There are two tunes he follows to varying lyrics, each tune having the same formula:
 
