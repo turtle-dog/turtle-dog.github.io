@@ -23,7 +23,7 @@ I was gifted the Animal Crossing sticker book when it came out, as well, so I'm 
 
 I was so impressed with the weather effects! I'm so excited to experience my first storm on Pyxis. I've gifed some of my favorite wind-related moments in the most recent direct - I was sort of freaking out about the wind...
 
-![alt text]({{ site.baseurl }}/images/acnh_storm.jpg "Stormy weather")
+![alt text]({{ site.baseurl }}/images/acnh_storm.gif "Stormy weather")
 
 (adding more later...hehe)
 
