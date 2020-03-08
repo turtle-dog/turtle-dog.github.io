@@ -16,7 +16,7 @@ The movement of the leaves of the trees, the flowers, and the weeds as the wind 
 
 I'm also so excited to be able to make a town with better pavement options, craftable outdoor items, etc. I really enjoyed the completed town in Happy Home Designer, shown below. It made me feel like I was able to (sort of) customize a City Folk-esque city, and New Horizons will give the opportunity to do that with even more potential for customization and creativity.
 
-![alt text]({{ site.baseurl }}/images/hhd_completed_town "The town in Happy Home Designer")
+![alt text]({{ site.baseurl }}/images/hhd_completed_town.jpg "The town in Happy Home Designer")
 
 For comparison, here's an example of the enhanced outdoor customization from the most recent direct:
 
