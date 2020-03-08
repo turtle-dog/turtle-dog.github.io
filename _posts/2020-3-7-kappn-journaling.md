@@ -9,11 +9,11 @@ I only have one Animal Crossing plushie, but it's a really good one - Kapp'n ðŸ’
 
 I am hoping Kapp'n will have some sort of role in the upcoming New Horizons, but I haven't seen much indication of what he could do. The player arrives to their island by plane, rather than by boat, and a new character has been introduced to fly the plane. So his previous roles as bus/boat/taxi driver may not be reprised. But I have faith that Nintendo will find a role for him! ðŸ¤ž
 
-I am so excited for New Horizons. When the first direct finally dropped in June 2019 - I was visiting Japan at the time and had to set a timer for 2am to watch - I decided to keep a journal for my New Horizons island, logging ideas for names, layouts, themes, etc. I have since decided on the name "Pyxis" for my island, and with each new direct, I have more an more ideas for how I'm going to lay out my island.
+I am so excited for New Horizons. When the first direct finally dropped in June 2019 - I was visiting Japan at the time and had to set a timer for 2am to watch - I decided to keep a journal for my New Horizons island, logging ideas for names, layouts, themes, etc. I have since decided on the name "Pyxis" for my island, and with each new direct, I have more and more ideas for how I'm going to lay out my island.
 
 ![alt text]({{ site.baseurl }}/images/journals.jpg "Various journals, pens, and a black cat laying on them")
 
-I'm currently using a Rhodia pocket-sized notebook (pictured above) for my journal - I picked it up in an airport in Japan and have been adding ideas to it ever since. I'm happy with it, but I'm also a little bit of a notebook hoarder, so when I saw that Field Notes had a set of pocket notebooks with these *gorgeous* National Parks illustrations on them, so I, of course, had to get a set. And a friend sent me this cute notebook with Jiji from Kiki's Delivery Service on the front. I think I'll use one of these when I fill up my Rhodia journal. 
+I'm currently using a Rhodia pocket-sized notebook (pictured above) for my journal - I picked it up in an airport in Canada and have been adding ideas to it ever since. I'm happy with it, but I'm also a little bit of a notebook hoarder, so when I saw that Field Notes had a set of pocket notebooks with these *gorgeous* National Park themed illustrations on them, I, of course, had to get a set. And a friend sent me this cute notebook with Jiji from Kiki's Delivery Service on the front. I think I'll use one of these when I fill up my Rhodia journal. 
 
 ![alt text]({{ site.baseurl }}/images/stickerbook.jpg "The Animal Crossing sticker book")
 
@@ -24,10 +24,11 @@ I was gifted the Animal Crossing sticker book when it came out, as well, so I'm 
 I was so impressed with the weather effects! I'm so excited to experience my first storm on Pyxis. I've gifed some of my favorite wind-related moments in the most recent direct - I was sort of freaking out about the wind...
 
 ![alt text]({{ site.baseurl }}/images/acnh_storm.gif "Stormy weather")
+![alt text]({{ site.baseurl }}/images/acnh_fishing.gif "A player fishing while the wind blows through the trees")
+![alt text]({{ site.baseurl }}/images/acnh_pan1.gif "Panning across a waterfall")
+![alt text]({{ site.baseurl }}/images/acnh_pan2.gif "Panning across a cliff")
 
-(adding more later...hehe)
-
-I'm also so excited to be able to make a town with better pavement options, craftable outdoor items, etc. I really enjoyed the city-like vibe of Happy Home Designer (once all of the public buildings are built) and it looks like I'll be able to replicate that vibe on New Horizons with even better customization options. And I think everyone's saying this, but the museum is absolutely *breathtaking*. I cannot wait to fill it up with collectibles!
+<img align="left" src="https://raw.githubusercontent.com/turtle-dog/turtle-dog.github.io/master/images/hhd_completed_town.jpg" alt="A completed city in Happy Home Designer"> I'm also so excited to be able to make a town with better pavement options, craftable outdoor items, etc. I really enjoyed the city-like vibe of Happy Home Designer (once all of the public buildings are built) and it looks like I'll be able to replicate that vibe on New Horizons with even better customization options. And I think everyone's saying this, but the museum is absolutely *breathtaking*. I cannot wait to fill it up with collectibles!
 
 One thing that I would love to see make a comeback is morning aerobics from original Animal Crossing. It was such a fun event and would give me a good excuse to get up in the morning, which I am absolutely terrible at doing consistently. Animal Crossing would be a good motivation...
 
