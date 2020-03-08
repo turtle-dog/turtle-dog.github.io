@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kapp'n, Journaling, and New Horizons
+title: Kapp'n and Journaling Plans
 ---
 
 ![alt text]({{ site.baseurl }}/images/kappnandmomo.jpg "Kapp'n plushie laying against a black cat")
@@ -19,17 +19,8 @@ I'm currently using a Rhodia pocket-sized notebook (pictured above) for my journ
 
 I was gifted the Animal Crossing sticker book when it came out, as well, so I'm really excited to start using the stickers - I think I might make little profiles of villagers that move in to my town using their stickers. For now the journals are for ideas, but once I start playing they'll be more like a log of the important events happening in my town.
 
-## New Horizons: What I'm most excited about
+I'll end this post with some resources I really love for Animal Crossing journaling and town planning:
 
-I was so impressed with the weather effects! I'm so excited to experience my first storm on Pyxis. I've gifed some of my favorite wind-related moments in the most recent direct - I was sort of freaking out about the wind...
-
-![alt text]({{ site.baseurl }}/images/acnh_storm.gif "Stormy weather")
-![alt text]({{ site.baseurl }}/images/acnh_fishing.gif "A player fishing while the wind blows through the trees")
-![alt text]({{ site.baseurl }}/images/acnh_pan1.gif "Panning across a waterfall")
-![alt text]({{ site.baseurl }}/images/acnh_pan2.gif "Panning across a cliff")
-
-<img align="left" src="https://raw.githubusercontent.com/turtle-dog/turtle-dog.github.io/master/images/hhd_completed_town.jpg" alt="A completed city in Happy Home Designer"> I'm also so excited to be able to make a town with better pavement options, craftable outdoor items, etc. I really enjoyed the city-like vibe of Happy Home Designer (once all of the public buildings are built) and it looks like I'll be able to replicate that vibe on New Horizons with even better customization options. And I think everyone's saying this, but the museum is absolutely *breathtaking*. I cannot wait to fill it up with collectibles!
-
-One thing that I would love to see make a comeback is morning aerobics from original Animal Crossing. It was such a fun event and would give me a good excuse to get up in the morning, which I am absolutely terrible at doing consistently. Animal Crossing would be a good motivation...
-
-Anyway, as you can probably tell by clicking ctrl+f and typing "excited", I am so excited! 13 more days until Pyxis is created! 😊
+[Amy's Town Name Guide](https://aforestlife.com/guides/animal-crossing-town-name-ideas-and-methods/): Amy is one of my favorite Animal Crossing bloggers and she's so creative. If you're stuck on a town name, consult her guide!
+[The Island Companion Planner](https://www.kickstarter.com/projects/156066800/the-island-companion-planner): This is such an awesome Kickstarter, and it's tempting me to throw out my journal ideas and just buy this planner.
+[New Horizons Map Editor](https://www.reddit.com/r/AnimalCrossing/comments/f9iuce/new_horizons_map_editor_now_live_see_comments_for/): Plan out your map in Google Sheets!
