@@ -20,7 +20,7 @@ I'm also so excited to be able to make a town with better pavement options, craf
 
 For comparison, here's an example of the enhanced outdoor customization from the most recent direct:
 
-![alt text]({{ site.baseurl }}/images/city_moment.jpg "")
+!({{ site.baseurl }}/images/city_moment.jpg)
 
 One thing that I would love to see make a comeback is morning aerobics from original Animal Crossing. It was such a fun event and would give me a good excuse to get up in the morning, which I am absolutely terrible at doing consistently. Plus, there's something so refreshing about listening to radio calisthenics. I might start doing them myself...
 
