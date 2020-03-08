@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kapp'n, Journaling, and Animal Crossing: New Horizons
+title: Kapp'n, Journaling, and New Horizons
 ---
 
 ![alt text]({{ site.baseurl }}/images/kappnandmomo.jpg "Kapp'n plushie laying against a black cat")
