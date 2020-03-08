@@ -15,6 +15,20 @@ I am so excited for New Horizons. When the first direct finally dropped in June 
 
 I'm currently using a Rhodia pocket-sized notebook (pictured above) for my journal - I picked it up in an airport in Japan and have been adding ideas to it ever since. I'm happy with it, but I'm also a little bit of a notebook hoarder, so when I saw that Field Notes had a set of pocket notebooks with these *gorgeous* National Parks illustrations on them, so I, of course, had to get a set. And a friend sent me this cute notebook with Jiji from Kiki's Delivery Service on the front. I think I'll use one of these when I fill up my Rhodia journal. 
 
-![alt text]({{ site.baseurl }}/images/stickers.jpg "The Animal Crossing sticker book")
+![alt text]({{ site.baseurl }}/images/stickerbook.jpg "The Animal Crossing sticker book")
 
 I was gifted the Animal Crossing sticker book when it came out, as well, so I'm really excited to start using the stickers - I think I might make little profiles of villagers that move in to my town using their stickers. For now the journals are for ideas, but once I start playing they'll be more like a log of the important events happening in my town.
+
+## New Horizons: What I'm most excited about
+
+I was so impressed with the weather effects! I'm so excited to experience my first storm on Pyxis. I've gifed some of my favorite wind-related moments in the most recent direct - I was sort of freaking out about the wind...
+
+![alt text]({{ site.baseurl }}/images/acnh_storm.jpg "Stormy weather")
+
+(adding more later...hehe)
+
+I'm also so excited to be able to make a town with better pavement options, craftable outdoor items, etc. I really enjoyed the city-like vibe of Happy Home Designer (once all of the public buildings are built) and it looks like I'll be able to replicate that vibe on New Horizons with even better customization options. And I think everyone's saying this, but the museum is absolutely *breathtaking*. I cannot wait to fill it up with collectibles!
+
+One thing that I would love to see make a comeback is morning aerobics from original Animal Crossing. It was such a fun event and would give me a good excuse to get up in the morning, which I am absolutely terrible at doing consistently. Animal Crossing would be a good motivation...
+
+Anyway, as you can probably tell by clicking ctrl+f and typing "excited", I am so excited! 13 more days until Pyxis is created! 😊
