@@ -22,5 +22,7 @@ I was gifted the Animal Crossing sticker book when it came out, as well, so I'm 
 I'll end this post with some resources I really love for Animal Crossing journaling and town planning:
 
 [Amy's Town Name Guide](https://aforestlife.com/guides/animal-crossing-town-name-ideas-and-methods/): Amy is one of my favorite Animal Crossing bloggers and she's so creative. If you're stuck on a town name, consult her guide!
+
 [The Island Companion Planner](https://www.kickstarter.com/projects/156066800/the-island-companion-planner): This is such an awesome Kickstarter, and it's tempting me to throw out my journal ideas and just buy this planner.
+
 [New Horizons Map Editor](https://www.reddit.com/r/AnimalCrossing/comments/f9iuce/new_horizons_map_editor_now_live_see_comments_for/): Plan out your map in Google Sheets!
