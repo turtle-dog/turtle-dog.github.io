@@ -16,20 +16,20 @@ The movement of the leaves of the trees, the flowers, and the weeds as the wind 
 
 I'm also so excited to be able to make a town with better pavement options, craftable outdoor items, etc. I really enjoyed the completed town in Happy Home Designer, shown below. It made me feel like I was able to (sort of) customize a City Folk-esque city, and New Horizons will give the opportunity to do that with even more potential for customization and creativity.
 
-<img align="center" src="https://www.pigeon.cafe/images/hhd_completed_town.jpg">
+<div style="text-align:center"><img src="https://www.pigeon.cafe/images/hhd_completed_town.jpg"></div>
 
 For comparison, here's an example of the enhanced outdoor customization from the most recent direct:
 
-![alt text]({{ site.baseurl }}/images/city_moment.jpg)
+<div style="text-align:center"><img src="https://www.pigeon.cafe/images/city_moment.jpg" style="width:80%"></div>
 
 One thing that I would love to see make a comeback is morning aerobics from original Animal Crossing. It was such a fun event and would give me a good excuse to get up in the morning, which I am absolutely terrible at doing consistently. Plus, there's something so refreshing about listening to radio calisthenics. I might start doing them myself...
 
 Let's end the post with some screenshots of the museum, which, as everyone's been pointing out, is absolutely *breathtaking*. 
 
-![alt text]({{ site.baseurl }}/images/museum_plaza.jpg "")
-![alt text]({{ site.baseurl }}/images/museum_shark.jpg "")
-![alt text]({{ site.baseurl }}/images/museum_lab.jpg "")
-![alt text]({{ site.baseurl }}/images/museum_tube.png "")
+![alt text]({{ site.baseurl }}/images/museum_plaza.jpg)
+![alt text]({{ site.baseurl }}/images/museum_shark.jpg)
+![alt text]({{ site.baseurl }}/images/museum_lab.jpg )
+![alt text]({{ site.baseurl }}/images/museum_tube.png)
 ![alt text]({{ site.baseurl }}/images/museum_terra.jpg)
 
 Anyway, as you can probably tell by clicking ctrl+f and typing "excited", I am so excited! 😊 I'll see everyone on the other side of March 20th! 👋
