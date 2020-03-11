@@ -22,7 +22,7 @@ For comparison, here's an example of the enhanced outdoor customization from the
 
 <div style="text-align:center"><img src="https://www.pigeon.cafe/images/city_moment.jpg" style="width:80%"></div>
 
-I don't think that Happy Home Designer-esque building customization will make an appearance in New Horizons, but I really wish they would. I loved customizing the look of cafes, restaurants, and shopping centers (inside and outside!) and watching villagers interact with my designs. It would be a dream come true if we could do this in New Horizons - having the option to construct a building, decorate it with some sort of budget and minimum requirements, and have my villagers interact with it once it was completed. I CRAVE THIS!
+I don't think that Happy Home Designer-esque building customization will make an appearance in New Horizons, but I really wish it would. I loved customizing the look of cafes, restaurants, and shopping centers (inside and outside!) and watching villagers interact with my designs. It would be a dream come true if we could do this in New Horizons - having the option to construct a building, decorate it with some sort of budget and minimum requirements, and have my villagers interact with it once it was completed. I CRAVE THIS!
 
 One other thing that I would love to see make a comeback is morning aerobics from Animal Crossing Gamecube. It was such a fun event and would give me a good excuse to get up in the morning, which I am absolutely terrible at doing consistently. Plus, there's something so refreshing about listening to radio calisthenics. I might start doing them myself...
 
