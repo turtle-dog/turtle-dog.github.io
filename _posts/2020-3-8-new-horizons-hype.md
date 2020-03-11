@@ -24,6 +24,8 @@ For comparison, here's an example of the enhanced outdoor customization from the
 
 One thing that I would love to see make a comeback is morning aerobics from original Animal Crossing. It was such a fun event and would give me a good excuse to get up in the morning, which I am absolutely terrible at doing consistently. Plus, there's something so refreshing about listening to radio calisthenics. I might start doing them myself...
 
+I would also really like to see villagers have more fleshed-out personalities. It would be really cool if, for example, Moe, had unique dialogue options that you could unlock in some sort of obscure way, similar to the way your character has to befriend Sable in previous games. I realize that this is probably not feasible with the number of characters in Animal Crossing, but I can dream, can't I? If not more *unique* dialogue options, more dialogue options in general would be great. In previous games, I played so often that it started to become a chore to talk to villagers because they started repeating dialogue over and over again - sometimes different villagers would say the same thing. It is very immersion-breaking. Ideally, villagers would have so much dialogue to choose from that they would seldom, if ever, repeat something another villager said. Again, a girl can dream.
+
 Let's end the post with some screenshots of the museum, which, as everyone's been pointing out, is absolutely *breathtaking*. 
 
 ![alt text]({{ site.baseurl }}/images/museum_plaza.jpg)
