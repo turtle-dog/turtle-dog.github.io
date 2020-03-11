@@ -16,9 +16,9 @@ Unfortunately, it appears as if some of these blogs are out of commission. But I
 
 [A Forest Life](https://aforestlife.com/): A long-running (and adorable!) blog with tons of resources for Wild World and New Leaf especially
 
-[bibi design](http://bibidesign.blog.fc2.com/): Tons of awesome QR Codes for New Leaf
+[bibi design](http://bibidesign.blog.fc2.com/): New Leaf QR Codes
 
-[Besaid Designs](http://0e0.boo.jp/): Also tons of QR Codes for New Leaf, recently added a section for AC:NH 👀
+[Besaid Designs](http://0e0.boo.jp/): New Leaf QR Codes, recently added a section for AC:NH 👀
 
 [merongcrossing](https://merongcrossing.tumblr.com/): Animal Crossing QR Codes, hype, news, etc.
 
