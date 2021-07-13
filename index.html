@@ -1,18 +1,19 @@
 ---
 layout: default
+title: page title
 ---
 
-<div class="posts">
+<div id="home">
+
+  <h1>Blog Posts</h1>
+  <ul class="posts">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
+  </ul>
+
+  <h1>Links</h1>
+  <ul class="posts">
+    <li><a href="https://www.notion.so/de0c1445d3a846758a25105d3cd711bd?v=c6335bf70aba4530b83e6c006a54f997">Recipes I love</a><span> ! ft. pictures of my very own cooking !</span></li>
+  </ul>
 </div>
