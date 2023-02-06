@@ -1,3 +1,12 @@
+# Local Development (Elizabeth-specific)
+
+1. Make sure you're using the right ruby version: `chruby 3.1.0`
+2. Serve the site and watch for markup/sass changes `jekyll serve`
+3. View your website at http://127.0.0.1:4000/
+4. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
+
+# Below is the original README from the forked project
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
