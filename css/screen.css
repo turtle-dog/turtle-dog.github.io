@@ -210,3 +210,9 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+#poem {
+  font-family: 'Spectral', serif;
+  font-size: 11pt;
+  line-height: .25em;
+}
